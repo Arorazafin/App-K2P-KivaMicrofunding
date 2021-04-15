@@ -1,0 +1,21 @@
+dash
+dash-bootstrap-components
+
+#####
+numpy==1.20.1
+pandas==1.2.2
+
+##### ML
+scikit-learn==0.24.1
+imbalanced-learn==0.8.0 
+
+##### TensorFlow-related packages
+tensorflow==2.0.1
+h5py==2.10.0
+
+
+#### NLP
+wordcloud==1.6.0
+spacy ==3.0.3
+nltk==3.5
+beautifulsoup4==4.9.3 
