@@ -6,6 +6,8 @@
 
 `python -m venv env-kiva`
 
+`. ./env-kiva/scripts/activate`
+
 `pip install -r requirments-app.txt`
 
 `python index.py`
