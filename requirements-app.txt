@@ -17,5 +17,4 @@ h5py==2.10.0
 #### NLP
 wordcloud==1.6.0
 spacy ==3.0.3
-nltk==3.5
 beautifulsoup4==4.9.3 
