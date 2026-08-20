@@ -2,7 +2,7 @@ dash
 dash-bootstrap-components
 
 #####
-numpy==1.20.1
+numpy==1.22.0
 pandas==1.2.2
 
 ##### ML
